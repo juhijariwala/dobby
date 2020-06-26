@@ -116,6 +116,5 @@ $ ./out/dobby server
 Fork the repo and start contributing
 
 #### Guidelines
-
 - Make sure to run build before raising PR (`make build`)
 - Update README.md if necessary
